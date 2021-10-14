@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  MFCApplication1.cpp
+C:\Users\khang\Desktop\BaoCaoOpenMP\MFCApplication1\MFCApplication1.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MFCApplication1Dlg.cpp
+C:\Users\khang\Desktop\BaoCaoOpenMP\MFCApplication1\MFCApplication1.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\khang\Desktop\BaoCaoOpenMP\MFCApplication1\MFCApplication1Dlg.cpp(292,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\khang\Desktop\BaoCaoOpenMP\MFCApplication1\MFCApplication1Dlg.cpp(354,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\khang\Desktop\BaoCaoOpenMP\MFCApplication1\MFCApplication1Dlg.cpp(457,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  MFCApplication1.vcxproj -> C:\Users\khang\Desktop\BaoCaoOpenMP\Debug\MFCApplication1.exe
